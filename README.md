@@ -2,33 +2,33 @@
 
 ## CS475 — Performance-Focused C++ (C++) — [CS475](https://github.com/Randy-Osborn/CS475)
 tags: [systems, performance, c++]
-- Implemented compute‑intensive programs with careful memory layout and cache‑aware data structures, improving runtime by <N>% on <benchmark>.
-- Profiled alternatives (Oprofile/Perf/Timers) and selected the fastest approach for <task>, cutting execution time from <X>s to <Y>s.
+- Implemented compute‑intensive programs with careful memory layout and cache‑aware data structures, improving runtime efficiency.
+- Profiled alternative approaches (Oprofile/Perf/Timers) and adopted the fastest design for key tasks, reducing execution time.
 - Wrote Makefile targets and sanity tests to prevent regressions; documented trade‑offs between clarity and speed.
 
 ## CS344 — Systems Programming in C (C) — [CS344](https://github.com/Randy-Osborn/CS344)
 tags: [systems, c, unix, concurrency]
-- Built multi‑process utilities using fork/exec, pipes, and signals; hardened error handling for robust I/O under failure.
+- Built multi‑process utilities using fork/exec, pipes, and signals; hardened error handling for reliable I/O under failure.
 - Implemented signal‑safe logic and defensive checks to avoid deadlocks and resource leaks; improved reliability under stress tests.
 - Added scripts and documentation to standardize builds, runtime flags, and test runs across environments.
 
 ## OSU‑cs312 — Final Project: Terraform/IaC (HCL) — [OSU-cs312-sp23-FinalProject](https://github.com/Randy-Osborn/OSU-cs312-sp23-FinalProject)
 tags: [cloud, devops, terraform, iac]
 - Provisioned cloud resources using Terraform modules and remote state for reproducible environments; codified variables and outputs.
-- Established fmt/validate/plan workflow and deployment docs; reduced setup time from <H> hours to <T> minutes across machines.
+- Established fmt/validate/plan workflow and deployment docs; streamlined setup and reduced manual steps.
 - Parameterized environments (dev/prod) and documented drift detection and minimal blast‑radius changes.
 
 ## CS493 — Backend Web Development (JavaScript/Node)
 tags: [backend, web, node, rest, auth]
-- Designed RESTful endpoints with input validation and structured error handling; improved average response time by <M>% on <endpoint>.
-- Implemented auth/authorization (sessions/JWT) and protected routes; reduced 4xx errors by <P>% via stricter validation.
+- Designed RESTful endpoints with input validation and structured error handling; improved API responsiveness and clarity.
+- Implemented authentication/authorization (sessions/JWT) and protected routes; reduced client errors and unauthorized access issues.
 - Added logging and basic metrics; prepared services for deployment with environment configuration and health checks.
 
 ## CS492 — Android (Kotlin) — [Assignments org index](https://github.com/osu-cs492-w23)
 tags: [android, kotlin, mobile]
 - Built Android features using activities/fragments, RecyclerView, and ViewModel‑based state; added view binding and lifecycle safety.
 - Implemented networking/persistence patterns (e.g., coroutines/Room or alternatives) with user‑friendly error handling.
-- Improved UI responsiveness and reduced crash rate by <Q>% via input validation and null‑safety guards.
+- Improved UI responsiveness and reduced crash rate through input validation and null‑safety guards.
 
 ## cs440 — Database Management Systems (C++) — [cs440](https://github.com/Randy-Osborn/cs440)
 tags: [backend, systems, c++, databases]
