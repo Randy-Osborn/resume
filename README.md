@@ -1,8 +1,4 @@
 # Master Project Bullets (through June 2024)
-# How to use:
-# - Pick 3–5 projects relevant to the target role (use tags)
-# - Choose 1–2 bullets per project and add concrete metrics (%, ms, req/s, users)
-# - Keep bullets to 1–2 lines each
 
 ## CS475 — Performance-Focused C++ (C++) — [CS475](https://github.com/Randy-Osborn/CS475)
 tags: [systems, performance, c++]
