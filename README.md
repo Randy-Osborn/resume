@@ -3,7 +3,7 @@
 ## CS475 — Performance-Focused C++ (C++) — [CS475](https://github.com/Randy-Osborn/CS475)
 tags: [systems, performance, c++]
 - Implemented compute‑intensive programs with careful memory layout and cache‑aware data structures, improving runtime efficiency.
-- Profiled alternative approaches (Oprofile/Perf/Timers) and adopted the fastest design for key tasks, reducing execution time.
+- Profiled alternative approaches and adopted the fastest design for key tasks, reducing execution time.
 - Wrote Makefile targets and sanity tests to prevent regressions; documented trade‑offs between clarity and speed.
 
 ## CS344 — Systems Programming in C (C) — [CS344](https://github.com/Randy-Osborn/CS344)
@@ -15,7 +15,7 @@ tags: [systems, c, unix, concurrency]
 ## OSU‑cs312 — Final Project: Terraform/IaC (HCL) — [OSU-cs312-sp23-FinalProject](https://github.com/Randy-Osborn/OSU-cs312-sp23-FinalProject)
 tags: [cloud, devops, terraform, iac]
 - Provisioned cloud resources using Terraform modules and remote state for reproducible environments; codified variables and outputs.
-- Established fmt/validate/plan workflow and deployment docs; streamlined setup and reduced manual steps.
+- Established workflow and deployment docs; streamlined setup and reduced manual steps.
 - Parameterized environments (dev/prod) and documented drift detection and minimal blast‑radius changes.
 
 ## CS493 — Backend Web Development (JavaScript/Node)
